@@ -1,2 +1,2 @@
 # Functions
-Useful and Simple Functions I've Coded
+Useful and Simple JavaScript Functions I've Coded
