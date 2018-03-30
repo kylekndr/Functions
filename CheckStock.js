@@ -12,7 +12,6 @@ var SearchInventory = {
   PG2250: 6
 };
 function CheckStock(InStock) {
-  // Your Code Here
   if (SearchInventory.hasOwnProperty(InStock)){
   return SearchInventory[InStock];
   }
